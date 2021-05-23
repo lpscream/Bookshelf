@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AllPrices">Все цены</string>
+    <string name="withDiscount">Со скидкой</string>
+    <string name="free">Бесплатно</string>
+    <string name="unknownName">unknown</string>
+    <string name="back">Назад</string>
+    <string name="mainPage">Главная</string>
+</resources>
